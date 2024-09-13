@@ -1,0 +1,40 @@
+ls -la
+wc -l .bash_history
+cat .bash_history
+history -a
+ls -l /var/log/ 
+ls -l /var/log/dmesg
+tail -f /var/log/dmesg
+tail -f  /var/log/dmesg
+sudo tail /var/log/dmesg
+logout
+vagrant shutdown
+vagrant off
+vagrant exit
+help
+help exit
+exit
+cd repogit/TP_AySO/
+git commit -m "ADD: Comando para capturar y analizar el trafico de red"
+git status
+git push
+ll
+echo "Alumno: Morena Castillo" > README.md
+echo "Division: Div 313" >> README.md
+echo "Turno: Noche" >> README.md
+cat README.md 
+git add README.md 
+git commit -m "docs: agregado de datos de alumno"
+git status
+history -a
+cd repogit/TP_AySO/
+[200~history -a
+history -a
+ls -l
+ls -la
+cp .bash_history
+cp --help
+[200~cat ~/.bash_history
+~cat ~/.bash_history
+cat ~/.bash_history
+history -a
